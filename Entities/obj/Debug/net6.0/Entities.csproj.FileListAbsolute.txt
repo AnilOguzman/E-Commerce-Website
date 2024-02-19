@@ -1,0 +1,36 @@
+E:\MVC\Store\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\MVC\Store\Entities\bin\Debug\net6.0\Entities.dll
+E:\MVC\Store\Entities\bin\Debug\net6.0\Entities.pdb
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.dll
+E:\MVC\Store\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\MVC\Store\Entities\obj\Debug\net6.0\Entities.pdb
+E:\MVC\Store\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Entities\obj\Debug\net6.0\ref\Entities.dll

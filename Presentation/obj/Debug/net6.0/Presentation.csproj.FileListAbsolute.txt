@@ -1,0 +1,38 @@
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.deps.json
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Repositories.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Services.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Services.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Repositories.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.CopyComplete
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\refint\Presentation.dll
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.pdb
+D:\Users\ANIL\Desktop\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\ref\Presentation.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.deps.json
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Presentation.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Entities.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Repositories.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Services.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Services.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Entities.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\bin\Debug\net6.0\Repositories.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.csproj.CopyComplete
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\refint\Presentation.dll
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\Presentation.pdb
+D:\Users\ANIL\Desktop\BTK AKADEMİ\BTK-Akademi-ASPNET-Core-MVC-Egitimi-ch_18_admin_panel\Store\Presentation\obj\Debug\net6.0\ref\Presentation.dll
